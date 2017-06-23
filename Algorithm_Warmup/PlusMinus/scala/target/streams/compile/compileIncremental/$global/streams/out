@@ -1,0 +1,33 @@
+[debug] [naha] 
+[debug] [naha] Initial source changes: 
+[debug] [naha] 	removed:Set()
+[debug] [naha] 	added: Set()
+[debug] [naha] 	modified: Set(/home/benkio/projects/HackerRank/PlusMinus/scala/src/main/scala/Solution.scala)
+[debug] [naha] Invalidated products: Set()
+[debug] [naha] External API changes: API Changes: Set()
+[debug] [naha] Modified binary dependencies: Set()
+[debug] [naha] Initial directly invalidated sources: Set(/home/benkio/projects/HackerRank/PlusMinus/scala/src/main/scala/Solution.scala)
+[debug] [naha] 
+[debug] [naha] Sources indirectly invalidated by:
+[debug] [naha] 	product: Set()
+[debug] [naha] 	binary dep: Set()
+[debug] [naha] 	external source: Set()
+[debug] All initially invalidated sources: Set(/home/benkio/projects/HackerRank/PlusMinus/scala/src/main/scala/Solution.scala)
+[debug] [naha] Initial set of included nodes: Set(/home/benkio/projects/HackerRank/PlusMinus/scala/src/main/scala/Solution.scala)
+[debug] [naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources
+[info] Compiling 1 Scala source to /home/benkio/projects/HackerRank/PlusMinus/scala/target/scala-2.11/classes...
+[debug] Getting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.11.7
+[debug] Getting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.11.7
+[debug] Running cached compiler 620f1871, interfacing (CompilerInterface) with Scala compiler version 2.11.7
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-bootclasspath
+[debug] 	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/benkio/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+[debug] 	-classpath
+[debug] 	/home/benkio/projects/HackerRank/PlusMinus/scala/target/scala-2.11/classes
+[error] /home/benkio/projects/HackerRank/PlusMinus/scala/src/main/scala/Solution.scala:7: overriding method main in trait App of type (args: Array[String])Unit;
+[error]  method main needs `override' modifier
+[error]   def main(args: Array[String]) {
+[error]       ^
+[error] one error found
+[debug] Compilation failed (CompilerInterface)
+[error] (compile:compileIncremental) Compilation failed
