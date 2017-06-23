@@ -1,0 +1,184 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> /home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$$anonfun$1$$anonfun$apply$mcVI$sp$1.class
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> /home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$$anonfun$1.class
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> /home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$$anonfun$2.class
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> /home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$$anonfun$3$$anonfun$apply$1.class
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> /home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$$anonfun$3$$anonfun$apply$2.class
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> /home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$$anonfun$3.class
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> /home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$.class
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> /home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$delayedInit$body.class
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> /home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution.class
+binary dependencies:
+2 items
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> /home/benkio/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Solution
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Solution$
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Solution$$anonfun$1
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Solution$$anonfun$1$$anonfun$apply$mcVI$sp$1
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Solution$$anonfun$2
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Solution$$anonfun$3
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Solution$$anonfun$3$$anonfun$apply$1
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Solution$$anonfun$3$$anonfun$apply$2
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Solution$delayedInit$body
+used names:
+71 items
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> +
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> -
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> <init>
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> ==
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> A
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Any
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> App
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Array
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> B
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Boolean
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> CanBuildFrom
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> ClassTag
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Coll
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> FilterMonadic
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Function1
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> GenTraversableOnce
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Inclusive
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> IndexedSeq
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> InputStream
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Int
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> IntIsIntegral
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Nothing
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Numeric
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Object
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Predef
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> PrintWriter
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Range
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> RichInt
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Scanner
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Solution
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> StdIn
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> System
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> T
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> That
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> U
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> Unit
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> a
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> a_i
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> a_j
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> abs
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> apply
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> canBuildFrom
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> firstDiagonal
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> flatMap
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> foreach
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> i
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> immutable
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> in
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> intWrapper
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> io
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> j
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> java
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> lang
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> map
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> materializeClassTag
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> math
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> n
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> nextInt
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> ofDim
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> package
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> println
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> result
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> sc
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> scala
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> secondDiagonal
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> sum
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> to
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> until
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> update
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> util
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> withFilter
+product stamps:
+9 items
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$$anonfun$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1498215757000)
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$$anonfun$1.class -> lastModified(1498215757000)
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$$anonfun$2.class -> lastModified(1498215757000)
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$$anonfun$3$$anonfun$apply$1.class -> lastModified(1498215757000)
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$$anonfun$3$$anonfun$apply$2.class -> lastModified(1498215757000)
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$$anonfun$3.class -> lastModified(1498215757000)
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$.class -> lastModified(1498215757000)
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution$delayedInit$body.class -> lastModified(1498215757000)
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/target/scala-2.11/classes/Solution.class -> lastModified(1498215757000)
+source stamps:
+1 items
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> hash(a41be8ed83212b38215ef3610af64d6aa5d64710)
+binary stamps:
+2 items
+/home/benkio/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1494843025000)
+class names:
+2 items
+/home/benkio/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.App
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwmbneUwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwR+3m2XQABm5vdGlmeXNxAH4ADEBjkYZ0AAhTb2x1dGlvbnNxAH4ADFXcBiB0AAR3YWl0c3EAfgAMl0ciEXQADSRhc0luc3RhbmNlT2ZzcQB+AAzN+R9gdAABbnNxAH4ADPtuy5l0AAZlcXVhbHNzcQB+AAzGsa3ndAAMYXNJbnN0YW5jZU9mc3EAfgAMIyDV/HQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMzXMCkXQABnJlc3VsdHNxAH4ADK0aEB10AAxzeW5jaHJvbml6ZWRzcQB+AAzLVlGMdAACc2NzcQB+AAx8RukHdAABYXNxAH4ADHxhBo10AA0kaXNJbnN0YW5jZU9mc3EAfgAMIeoQu3QABG1haW5zcQB+AAwSXZ25dAAOc2Vjb25kRGlhZ29uYWxzcQB+AAyO1hjPdAAJbm90aWZ5QWxsc3EAfgAMYZTplnQADGlzSW5zdGFuY2VPZnNxAH4ADDcSWQ10AAI9PXNxAH4ADFWgYsN0AAVjbG9uZXNxAH4ADO1ZM6V0AAYkaW5pdCRzcQB+AAyzO3jrdAANZmlyc3REaWFnb25hbHNxAH4ADLZZZjR0AAh0b1N0cmluZ3NxAH4ADDPkMih0AARhcmdzc3EAfgAMgG7ReHQAAiE9c3EAfgAMkPbJcXQACGdldENsYXNzc3EAfgAMVKhbBnQAAm5lc3EAfgAMEtRH43QAAmVxc3EAfgAMsDpE/3QAC2RlbGF5ZWRJbml0c3EAfgAMbWrGOXQAAiMjc3EAfgAMncXLwHQACGZpbmFsaXplc3EAfgAM4EVqhHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgARdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBuc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4Ac3NxAH4AbnVxAH4AUAAAAABzcQB+AG51cQB+AFAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFZxAH4AX3VxAH4AYAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AH14cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcnQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgByc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCXc3EAfgBiAHEAfgApdXEAfgBkAAAAAHNxAH4AinQABFVuaXRxAH4AkHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AH14cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGd0AAVQbGFpbnEAfgA7c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCLWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgByc3EAfgCKdAAFQXJyYXlxAH4AkHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCKdAAGU3RyaW5nc3EAfgCOc3EAfgCRdXEAfgCUAAAAA3NxAH4AlnQABGphdmFzcQB+AJZ0AARsYW5ncQB+AJtzcQB+AG51cQB+ALIAAAAEc3EAfgCKdAADQXBwcQB+AJBzcQB+AIp0AAtEZWxheWVkSW5pdHEAfgCQc3EAfgCKdAAGT2JqZWN0cQB+ALZzcQB+AIp0AANBbnlxAH4AkHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFc1J4fyHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFMvaG9tZS9iZW5raW8vcHJvamVjdHMvSGFja2VyUmFuay9EaWFnb25hbERpZmZlcmVuY2Uvc2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKQb6O2DISs4IV7zYQr2TWql1kcQ
+external apis:
+0 items
+source infos:
+1 items
+/home/benkio/projects/HackerRank/DiagonalDifference/scala/src/main/scala/Solution.scala -> 
+AAAAAAAAAAA=
+compilations:
+15 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMn8dTV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2Jlbmtpby9wcm9qZWN0cy9oYWNrZXJyYW5rLXRlbXBsYXRlcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMoPe2J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2Jlbmtpby9wcm9qZWN0cy9oYWNrZXJyYW5rLXRlbXBsYXRlcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMoVaWJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2Jlbmtpby9wcm9qZWN0cy9oYWNrZXJyYW5rLXRlbXBsYXRlcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMoZxEd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2Jlbmtpby9wcm9qZWN0cy9oYWNrZXJyYW5rLXRlbXBsYXRlcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXM8qcop1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2Jlbmtpby9wcm9qZWN0cy9oYWNrZXJyYW5rLXRlbXBsYXRlcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXM89FV11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2Jlbmtpby9wcm9qZWN0cy9oYWNrZXJyYW5rLXRlbXBsYXRlcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXM9AyqJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2Jlbmtpby9wcm9qZWN0cy9oYWNrZXJyYW5rLXRlbXBsYXRlcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXM9EqvB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2Jlbmtpby9wcm9qZWN0cy9oYWNrZXJyYW5rLXRlbXBsYXRlcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXM9JGrt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2Jlbmtpby9wcm9qZWN0cy9oYWNrZXJyYW5rLXRlbXBsYXRlcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXM9Rupd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2Jlbmtpby9wcm9qZWN0cy9oYWNrZXJyYW5rLXRlbXBsYXRlcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXM9g0lZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2Jlbmtpby9wcm9qZWN0cy9oYWNrZXJyYW5rLXRlbXBsYXRlcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXM9jB/p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL2Jlbmtpby9wcm9qZWN0cy9oYWNrZXJyYW5rLXRlbXBsYXRlcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXNSHgqt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9ob21lL2Jlbmtpby9wcm9qZWN0cy9IYWNrZXJSYW5rL0RpYWdvbmFsRGlmZmVyZW5jZS9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXNSJ5X91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9ob21lL2Jlbmtpby9wcm9qZWN0cy9IYWNrZXJSYW5rL0RpYWdvbmFsRGlmZmVyZW5jZS9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXNSeH8h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9ob21lL2Jlbmtpby9wcm9qZWN0cy9IYWNrZXJSYW5rL0RpYWdvbmFsRGlmZmVyZW5jZS9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
