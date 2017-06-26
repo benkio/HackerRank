@@ -30,6 +30,4 @@ object Solution extends App {
     else
       checkAttempt(passwords, attempt.drop(prefixes.head.length), (acc :+ prefixes.head))
         .orElse(checkAttemptPrefixes(passwords, attempt, acc, prefixes.tail))
-
-
 }
